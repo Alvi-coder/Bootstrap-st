@@ -1,0 +1,2 @@
+# Bootstrap-st
+Strict
